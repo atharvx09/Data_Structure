@@ -18,3 +18,6 @@ function selectionSort(arr){
 }
 
 console.log(selectionSort(arr));
+
+// Selection Sort repeatedly finds the minimum element from the unsorted part of the array and swaps it with the first unsorted element.
+// TC-o(n^2) SC-o(1)
