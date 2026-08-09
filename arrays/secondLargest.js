@@ -1,4 +1,5 @@
-let arr = [3,2,5,7,3,5,12,12,11];
+// let arr = [3,2,5,7,3,5,12,12,11];
+let arr = [11,3,2];
 
 function secondLargest(arr){
     let largest = arr[0];
